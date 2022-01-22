@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642807713115" clover="3.2.0">
-  <project timestamp="1642807713115" name="All files">
-    <metrics statements="79" coveredstatements="73" conditionals="10" coveredconditionals="8" methods="29" coveredmethods="25" elements="118" coveredelements="106" complexity="0" loc="79" ncloc="79" packages="6" files="11" classes="11"/>
+<coverage generated="1642859453023" clover="3.2.0">
+  <project timestamp="1642859453023" name="All files">
+    <metrics statements="79" coveredstatements="74" conditionals="10" coveredconditionals="8" methods="29" coveredmethods="25" elements="118" coveredelements="107" complexity="0" loc="79" ncloc="79" packages="6" files="11" classes="11"/>
     <package name="api">
       <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="config.js" path="/Users/milver/Development/interview/pokeapi/src/api/config.js">
@@ -11,7 +11,7 @@
       <file name="pokemonApi.js" path="/Users/milver/Development/interview/pokeapi/src/api/pokemonApi.js">
         <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="4" count="2" type="stmt"/>
-        <line num="6" count="4" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
       </file>
     </package>
     <package name="assets">
@@ -48,17 +48,17 @@
       </file>
     </package>
     <package name="store.modules.pokemon">
-      <metrics statements="42" coveredstatements="41" conditionals="9" coveredconditionals="8" methods="15" coveredmethods="15"/>
+      <metrics statements="42" coveredstatements="42" conditionals="9" coveredconditionals="8" methods="15" coveredmethods="15"/>
       <file name="actions.js" path="/Users/milver/Development/interview/pokeapi/src/store/modules/pokemon/actions.js">
-        <metrics statements="9" coveredstatements="8" conditionals="1" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="4" count="2" type="stmt"/>
-        <line num="6" count="4" type="stmt"/>
-        <line num="7" count="4" type="stmt"/>
-        <line num="8" count="4" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
-        <line num="12" count="0" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
       </file>
       <file name="getters.js" path="/Users/milver/Development/interview/pokeapi/src/store/modules/pokemon/getters.js">

@@ -4,4 +4,5 @@ module.exports = {
     '^.+\\.vue$': 'vue-jest',
   },
   collectCoverage: true,
+  coverageDirectory: '<rootDir>/tests/unit/coverage',
 };
